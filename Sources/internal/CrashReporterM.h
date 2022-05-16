@@ -8,6 +8,7 @@
 #ifndef Header_h
 #define Header_h
 
-#import "CrashReporter.h"
+#import "PLCrashReporter.h"
+#import "PLCrashReport.h"
 
 #endif /* Header_h */
