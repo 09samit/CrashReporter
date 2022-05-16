@@ -26,7 +26,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#import "CrashReporter.h"
+#import "CrashReporterk.h"
 #import "PLCrashAsync.h"
 #import "PLCrashSignalHandler.h"
 #import "PLCrashFrameWalker.h"

@@ -32,7 +32,7 @@
 #import <CrashReporter/CrashReporter.h>
 #import <CrashReporter/PLCrashMacros.h>
 #else
-#import "CrashReporter.h"
+#import "CrashReporterk.h"
 #import "PLCrashMacros.h"
 #endif
 

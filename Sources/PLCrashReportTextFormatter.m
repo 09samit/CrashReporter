@@ -29,7 +29,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#import "CrashReporter.h"
+#import "CrashReporterk.h"
 
 #import "PLCrashReportTextFormatter.h"
 #import "PLCrashCompatConstants.h"

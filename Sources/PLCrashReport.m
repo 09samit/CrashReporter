@@ -27,10 +27,10 @@
  */
 
 #if __has_include(<CrashReporter/PLCrashReport.h>)
-#import <CrashReporter/CrashReporter.h>
+#import <CrashReporter/CrashReporterk.h>
 #import <CrashReporter/PLCrashReport.h>
 #else
-#import "CrashReporter.h"
+#import "CrashReporterk.h"
 #import "PLCrashReport.h"
 #endif
 

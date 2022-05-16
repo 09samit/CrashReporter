@@ -26,7 +26,7 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#import "CrashReporter.h"
+#import "CrashReporterk.h"
 
 /** 
  * Generic CrashReporter Exception
