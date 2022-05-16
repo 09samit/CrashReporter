@@ -18,6 +18,10 @@ let package = Package(
     targets: [
         .target(
             name: "CrashReporter",
-            dependencies: [])
+            dependencies: [],
+            publicHeadersPath: "include",
+            cSettings: [
+                            .headerSearchPath("."),
+                        ]),
     ]
 )
